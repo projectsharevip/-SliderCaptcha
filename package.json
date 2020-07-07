@@ -1,0 +1,21 @@
+{
+  "name": "slider-captcha",
+  "version": "2.5.0",
+  "description": "SliderCaptcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "captcha"
+  ],
+  "author": "itcabb/LongbowEnterprise-SliderCaptcha",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
